@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #f1efe7;
 }
 
 .navbar-collapse {
@@ -31,7 +31,7 @@ h1 {
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: rgb(210, 233, 233);
 }
 
 .seccion-titulo {
@@ -65,7 +65,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #decadb;
   min-height: 450px;
   text-align: center;
 }
@@ -394,3 +394,4 @@ footer {
     max-width: 600px;
   }
 }
+
